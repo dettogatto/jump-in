@@ -1,5 +1,6 @@
 {
   "name": "jump-in",
+  "homepage": "/react/jump-in/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -8,7 +9,7 @@
     "react-scripts": "3.0.1"
   },
   "scripts": {
-    "start": "react-scripts start",
+    "start": "PORT=8889 react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
